@@ -1,0 +1,7 @@
+MEU TREINO – arquivos para hospedagem pública
+
+Envie TODOS os arquivos desta pasta (não a pasta em si) para a hospedagem:
+  index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png, apple-touch-icon.png
+
+Funciona em qualquer hospedagem de site estático (GitHub Pages, Netlify, Vercel).
+Não precisa de servidor, banco de dados nem login. Os registros ficam salvos no próprio aparelho.
